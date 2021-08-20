@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Chen Xi',
   email: 'dajinzhuvip@gmail.com',
   link: 'https://chenxi-blog.vercel.app/page/2',
-  description: '我是陈锡，这是我的个人博客，我将会发布一些有趣的文章。',
+  description: '陈锡的个人博客',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
